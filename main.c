@@ -9,3 +9,7 @@ int main() {
         Fix_Bug_Man_Hinh();
     }
 }
+// Đang nháp dở hàm UART
+void UART_Init() {
+    // Tính toán baudrate... chưa xong
+}

@@ -6,5 +6,6 @@ int main() {
     // TODO: Cấu hình ngoại vi ở đây
     while(1) {
         // Vòng lặp chính
+        Fix_Bug_Man_Hinh();
     }
 }

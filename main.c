@@ -8,3 +8,7 @@ int main() {
         // Vòng lặp chính
     }
 }
+// Đang nháp dở hàm UART
+void UART_Init() {
+    // Tính toán baudrate... chưa xong
+}

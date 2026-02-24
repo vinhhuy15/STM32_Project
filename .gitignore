@@ -1,0 +1,25 @@
+# Bỏ qua các file object và file biên dịch trung gian
+*.o
+*.d
+*.crf
+*.lst
+
+# Bỏ qua các file thực thi và file nạp
+*.hex
+*.bin
+*.elf
+*.axf
+
+# Bỏ qua các thư mục build của IDE (như STM32CubeIDE hoặc Keil C)
+Debug/
+Release/
+Objects/
+Listings/
+
+# Bỏ qua các file tạm của hệ điều hành
+.DS_Store
+Thumbs.db
+
+# (Tuỳ chọn) Bỏ qua file rác sinh ra nếu chạy mô phỏng MATLAB
+*.asv
+slprj/
